@@ -14,13 +14,7 @@
         <shortDescription>address</shortDescription>
         <value>address of the lable</value>
     </labels>
-    <labels>
-        <fullName>contact</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>contact</shortDescription>
-        <value>contact - number</value>
-    </labels>
+    
     <labels>
         <fullName>country</fullName>
         <language>en_US</language>
